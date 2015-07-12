@@ -15,3 +15,16 @@ print 1.27e-3
 print 075
 print 0x4F
 print 3+4j
+
+# Variable
+print "####Variable####"
+
+msg = "Hello"
+print msg
+
+sum01 = 10 + 45
+print sum01
+
+calc01 = 2 + 45
+print "calc01 is", calc01
+
